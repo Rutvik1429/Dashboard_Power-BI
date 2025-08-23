@@ -55,7 +55,7 @@ The main objectives of this dashboard are:
 
 
 ## 📷 Dashboard Preview
-![HR Analysis Dashboard](https://github.com/Rutvik1429/Dashboard_Power-BI/blob/main/HR%20Analysis%20Report.png)
+![HR Analysis Dashboard]()
 
 ## 📌 Tools Used
 - **Power BI** for data modeling and visualization.  
