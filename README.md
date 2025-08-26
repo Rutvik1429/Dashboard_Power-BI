@@ -79,7 +79,6 @@ This HR Analysis Dashboard helps organizations identify the **key factors influe
 This project presents an interactive **Power BI Dashboard** for analyzing restaurant booking and customer behavior at **Velora Hotel**.  
 The dashboard provides detailed insights into **bookings, revenue, cancellations, loyalty levels, and customer booking behavior** with the help of KPIs, charts, filters, and DAX-based measures.  
 
----
 
 ## 📊 Objectives
 - To monitor **key restaurant performance metrics** such as Booking Count, Cancellation Rate, Total Revenue, Total Room Nights, and Average Room Rate.  
@@ -88,7 +87,6 @@ The dashboard provides detailed insights into **bookings, revenue, cancellations
 - To evaluate **business performance trends over time** using interactive visualizations.  
 - To provide **filter-driven insights** (Stay Date range filter) for dynamic exploration.  
 
----
 
 ## 🔑 Key Features & KPIs
 - **Booking Count:** 5K total bookings recorded.  
@@ -98,7 +96,6 @@ The dashboard provides detailed insights into **bookings, revenue, cancellations
 - **Average Room Rate:** 147.2.  
 - **Date Range Filter:** Custom filter for analyzing specific periods.  
 
----
 
 ## 📈 Insights
 1. **Booking Behavior**  
@@ -120,7 +117,6 @@ The dashboard provides detailed insights into **bookings, revenue, cancellations
 5. **Revenue & Performance**  
    - Revenue is healthy at **1M**, but a **28.7% cancellation rate** indicates an opportunity to improve booking confirmations.  
 
----
 
 ## 🛠️ Tools & Techniques
 - **Power BI** for visualization & reporting.  
@@ -128,24 +124,22 @@ The dashboard provides detailed insights into **bookings, revenue, cancellations
 - **Interactive Filters** for dynamic analysis.  
 - **Heatmaps, Bar Charts, Line Graphs, and KPIs** for storytelling with data.  
 
----
 
 ## 🚀 How to Use
 1. Open the **Power BI Dashboard** file.  
 2. Use the **date range filter** to analyze bookings for specific periods.  
 3. Explore different sections to gain insights into **customer behavior, revenue, and loyalty levels**.  
 
----
 
 ## 📌 Conclusion
 The Velora Restaurant Analysis Dashboard highlights customer trends, booking behaviors, and loyalty patterns.  
 It provides actionable insights to **reduce cancellations, optimize pricing strategies, and strengthen loyalty programs** while maintaining revenue growth.  
 
----
 
 ## 📷 Dashboard Preview
 ![Velora Restaurant Dashboard](Restaurants%20Analysis%20Dashboard.png)
 
----
 ✨ Created with **Power BI** by leveraging data storytelling, KPIs, and advanced DAX measures.
 
+---
+---
