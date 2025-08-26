@@ -72,3 +72,80 @@ The main objectives of this dashboard are:
 This HR Analysis Dashboard helps organizations identify the **key factors influencing employee attrition**, enabling HR teams to take **proactive measures for employee retention** and improve overall workforce stability.  
 
 ---
+---
+
+# 🍽️ Velora Restaurant Analysis Dashboard
+
+This project presents an interactive **Power BI Dashboard** for analyzing restaurant booking and customer behavior at **Velora Hotel**.  
+The dashboard provides detailed insights into **bookings, revenue, cancellations, loyalty levels, and customer booking behavior** with the help of KPIs, charts, filters, and DAX-based measures.  
+
+---
+
+## 📊 Objectives
+- To monitor **key restaurant performance metrics** such as Booking Count, Cancellation Rate, Total Revenue, Total Room Nights, and Average Room Rate.  
+- To analyze **customer booking behavior** (advance booking trends, weekday vs weekend stays, one-night vs multiple-night stays).  
+- To understand **customer segmentation** by loyalty levels and booking channels.  
+- To evaluate **business performance trends over time** using interactive visualizations.  
+- To provide **filter-driven insights** (Stay Date range filter) for dynamic exploration.  
+
+---
+
+## 🔑 Key Features & KPIs
+- **Booking Count:** 5K total bookings recorded.  
+- **Cancelled Rate:** 28.7% of bookings canceled.  
+- **Total Revenue:** 1M revenue generated.  
+- **Total Room Nights:** 9K nights booked.  
+- **Average Room Rate:** 147.2.  
+- **Date Range Filter:** Custom filter for analyzing specific periods.  
+
+---
+
+## 📈 Insights
+1. **Booking Behavior**  
+   - Most bookings are made **within a week before the stay**, showing last-minute planning trends.  
+   - A noticeable portion of customers book **more than 4 weeks in advance**, indicating planned travelers.  
+
+2. **Stay Patterns**  
+   - Customer stays are fairly consistent across weekdays and weekends, with **slightly higher stays mid-week**.  
+   - Majority of stays are **for one night only**, highlighting short-stay preferences.  
+
+3. **Customer Segmentation**  
+   - **Non-members** form the largest customer group (1940 bookings), followed by **Essential** loyalty members (983).  
+   - Higher loyalty tiers (Iconic, Elite, Premier, Select) contribute smaller but valuable segments.  
+
+4. **Booking Channels**  
+   - Majority of bookings come through **Apps and Online Travel Agents (OTA)**.  
+   - Velora’s own platform also drives significant direct bookings, showing brand trust.  
+
+5. **Revenue & Performance**  
+   - Revenue is healthy at **1M**, but a **28.7% cancellation rate** indicates an opportunity to improve booking confirmations.  
+
+---
+
+## 🛠️ Tools & Techniques
+- **Power BI** for visualization & reporting.  
+- **DAX (Data Analysis Expressions)** for calculated measures & KPIs.  
+- **Interactive Filters** for dynamic analysis.  
+- **Heatmaps, Bar Charts, Line Graphs, and KPIs** for storytelling with data.  
+
+---
+
+## 🚀 How to Use
+1. Open the **Power BI Dashboard** file.  
+2. Use the **date range filter** to analyze bookings for specific periods.  
+3. Explore different sections to gain insights into **customer behavior, revenue, and loyalty levels**.  
+
+---
+
+## 📌 Conclusion
+The Velora Restaurant Analysis Dashboard highlights customer trends, booking behaviors, and loyalty patterns.  
+It provides actionable insights to **reduce cancellations, optimize pricing strategies, and strengthen loyalty programs** while maintaining revenue growth.  
+
+---
+
+## 📷 Dashboard Preview
+![Velora Restaurant Dashboard](Restaurants%20Analysis%20Dashboard.png)
+
+---
+✨ Created with **Power BI** by leveraging data storytelling, KPIs, and advanced DAX measures.
+
