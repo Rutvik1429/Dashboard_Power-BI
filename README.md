@@ -137,7 +137,7 @@ It provides actionable insights to **reduce cancellations, optimize pricing stra
 
 
 ## 📷 Dashboard Preview
-![Velora Restaurant Dashboard](Restaurants%20Analysis%20Dashboard.png)
+![Velora Restaurant Dashboard](https://github.com/Rutvik1429/Dashboard_Power-BI/blob/main/Restaurants%20Analysis%20Dashboard.png)
 
 ✨ Created with **Power BI** by leveraging data storytelling, KPIs, and advanced DAX measures.
 
