@@ -219,7 +219,7 @@ This makes the dashboard more **interactive and user-friendly**, enabling viewer
 ## 📷 Dashboard Preview  
 
 ### Cost Analysis Report  
-![Cost Analysis Report](ATM%20Transection%20Report(Cost%20Analysis).png)  
+![Cost Analysis Report](https://github.com/Rutvik1429/Dashboard_Power-BI/blob/main/ATM%20Transection%20Report(Cost%20Analysis).png)  
 
 ### Range Analysis Report  
 ![Range Analysis Report](ATM%20Transection%20Report(Range%20Analysis).png)  
