@@ -143,3 +143,90 @@ It provides actionable insights to **reduce cancellations, optimize pricing stra
 
 ---
 ---
+
+# 💳 ATM Transaction Analysis Dashboard  
+
+This repository contains a **Power BI dashboard** designed for analyzing **ATM transactions, costs, revenues, and performance metrics** across different states and time periods. The dashboard provides a clear overview of financial and operational performance with interactive navigation between **Cost Analysis** and **Range Analysis** reports.  
+
+
+## 🎯 Objectives  
+- To monitor **ATM cost and maintenance analysis** across different months.  
+- To track **transaction trends (Financial & Non-Financial)** over time.  
+- To evaluate **state-wise ATM performance** in terms of revenue, uptime, and gross profit %.  
+- To perform **margin and transaction range analysis** at the ATM ID level.  
+- To provide **comparative insights** between current and previous months.  
+- To create a **user-friendly navigation flow** using Power BI buttons to switch between reports.  
+
+
+## 📊 Dashboard Overview  
+
+### 1. **Cost Analysis Report**  
+- **KPI Cards:**  
+  - Total Cost (296M)  
+  - Total Transactions (178.89M)  
+  - Gross Profit % (59.6%)  
+  - Avg Uptime (91.9%)  
+  - Avg EBILL (2.21K)  
+
+- **Visuals Used:**  
+  - **Donut Charts:** Cost breakdown (CRA, ATM Assets, VSAT, etc.).  
+  - **Bar Charts:** ATM, MHA, and Monthly Revenue by State.  
+  - **Clustered Bar & Column Charts:** Financial vs Non-Financial Transactions (month-wise).  
+  - **Line + Bar Combo Chart:** Monthly Revenue vs Transactions trend.  
+
+- **Key Insights:**  
+  - Punjab and Assam generate the **highest monthly revenue** among analyzed states.  
+  - Financial transactions dominate compared to non-financial ones.  
+  - Despite stable transaction volume, **monthly revenue shows slight decline** over months.  
+
+
+### 2. **Range Analysis Report**  
+- **KPI Cards:** (Same as above for continuity).  
+
+- **Visuals Used:**  
+  - **Tables:** Revenue performance with Avg Monthly Revenue, Avg Transactions, Gross Profit %, and Uptime %.  
+  - **Distribution Charts:**  
+    - Margin Range (Current Month) – majority of ATMs show profit margin **above 30%**.  
+    - Transaction Range (Previous Month) – most ATMs processed **above 200 transactions**.  
+
+- **Key Insights:**  
+  - ATMs with margins above 30% form the **largest share (2,374 ATMs)**.  
+  - High transaction activity observed in **more than 4,000 ATMs (>200 TXNs)**.  
+  - Uptime % varies significantly across states – Mizoram shows **100% uptime**, while others are lower.  
+  - States like Punjab and Tripura show **high transaction averages**, but gross profit % is relatively low.  
+
+
+## 🔄 Navigation  
+The dashboard includes **navigation buttons** that allow switching between:  
+- **Cost Analysis Report**  
+- **Range Analysis Report**  
+
+This makes the dashboard more **interactive and user-friendly**, enabling viewers to explore different perspectives with ease.  
+
+
+## 🛠 Tools & Technologies  
+- **Power BI** – Data Modeling, DAX, KPI creation, Interactive visuals  
+- **Data Sources** – ATM transaction & revenue datasets  
+
+
+## 📌 How to Use  
+1. Open the Power BI file.  
+2. Explore **Cost Analysis** for financial performance overview.  
+3. Switch to **Range Analysis** for detailed ATM-level performance.  
+4. Use filters and slicers to analyze specific months, states, or transaction ranges.  
+
+
+## 📷 Dashboard Preview  
+
+### Cost Analysis Report  
+![Cost Analysis Report](ATM%20Transection%20Report(Cost%20Analysis).png)  
+
+### Range Analysis Report  
+![Range Analysis Report](ATM%20Transection%20Report(Range%20Analysis).png)  
+
+
+## ✅ Conclusion  
+This dashboard provides an end-to-end **ATM transaction monitoring solution**, helping stakeholders track **costs, revenues, uptime, and profitability** while enabling **decision-making based on real-time insights**.  
+
+---
+---
