@@ -299,7 +299,9 @@ This dashboard is divided into multiple interactive sections:
 - **DAX** – Calculated measures & KPIs  
 - **Data Visualization** – Charts, maps, slicers, and KPIs  
 
-
+## 📂 Dataset
+The dashboard is built using the **Ecommerce Sales dataset**.  
+You can access it here: [Dataset Folder]()  
 ✨ This dashboard serves as a **strategic decision-support tool**, helping business leaders track key performance metrics, identify opportunities, and address weaknesses in Ecommerce sales.
 
 
