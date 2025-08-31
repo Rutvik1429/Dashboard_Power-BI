@@ -234,3 +234,72 @@ This dashboard provides an end-to-end **ATM transaction monitoring solution**, h
 
 ---
 ---
+
+# 📊 Ecommerce Sales Dashboard (YTD Analysis)
+
+![Ecommerce Sales Dashboard](Ecommerce%20Salse%20Dashboard(YTD%20Analysis).png)
+
+
+## 🎯 Objective
+The objective of this dashboard is to provide a **comprehensive Year-to-Date (YTD) analysis** of Ecommerce sales, enabling stakeholders to:
+- Track overall **sales, profit, quantity, and profit margin performance** compared to the previous year.  
+- Identify **top-performing and underperforming products** across categories.  
+- Analyze **regional and shipping trends** for better logistics and customer targeting.  
+- Provide **interactive filtering** by customer segment (Consumer, Corporate, Home Office) for more granular insights.  
+- Support **data-driven decision making** with actionable KPIs and DAX-based measures.  
+
+
+## 📌 Dashboard Overview
+This dashboard is divided into multiple interactive sections:  
+
+### 🔑 Key KPIs
+- **YTD Sales** → $11.53M (**-0.83% decline**)  
+- **YTD Profit** → $1.34M (**+4.50% growth**)  
+- **YTD Quantity** → 107.2K (**-7.29% decline**)  
+- **YTD Profit Margin** → 11.6% (**+5.37% growth**)  
+
+### 📂 Category-Wise Sales
+- **Furniture**: $2.52M (slight increase of +0.73%)  
+- **Office Supplies**: $6.92M (decline of -1.22%)  
+- **Technology**: $2.10M (decline of -1.37%)  
+
+
+### 🗺️ Geographic Distribution
+- Interactive **map visualization** to track sales density by **customer region** (Central, East, South, West).  
+
+
+## 🛠️ Methodology & Techniques
+- **Power BI** was used for data modeling, visualization, and dashboard design.  
+- **DAX (Data Analysis Expressions)** formulas were applied for:  
+  - Calculating **YTD and PYTD** values.  
+  - Deriving **growth/decline percentages**.  
+  - Creating **profit margin calculations**.  
+  - Dynamic **Top N and Bottom N product analysis**.  
+- **Interactive slicers** enable switching between **Consumer, Corporate, and Home Office segments**.  
+- A combination of **KPI cards, bar charts, donut charts, maps, and trend lines** was used for impactful storytelling.  
+
+
+## 📊 Insights & Business Recommendations
+- Sales show a **slight decline (-0.83%)**, but profit margins improved (**+5.37%**), indicating **cost optimization or better pricing strategies**.  
+- **Office Supplies and Technology** categories need focused improvement strategies due to negative growth.  
+- The **East region** is the strongest market, while the **South region** requires targeted marketing campaigns to boost sales.  
+- Heavy reliance on **Standard Class shipping (64.75%)** indicates possible cost advantages, but exploring **First Class efficiency** may enhance customer satisfaction.  
+- Products like **Staple Envelope & Staples** drive revenue, while poorly performing products should be **re-evaluated or discontinued**.  
+
+
+## 🚀 Future Enhancements
+- Add **forecasting models** to predict future sales trends.  
+- Include **customer segmentation analysis** for personalized marketing.  
+- Integrate **return & refund data** to track net profitability more accurately.  
+- Expand filters for **time-period comparison** (Monthly, Quarterly, YTD vs. PYTD).  
+
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Dashboard design & interactivity  
+- **DAX** – Calculated measures & KPIs  
+- **Data Visualization** – Charts, maps, slicers, and KPIs  
+
+
+✨ This dashboard serves as a **strategic decision-support tool**, helping business leaders track key performance metrics, identify opportunities, and address weaknesses in Ecommerce sales.
+
+
