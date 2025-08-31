@@ -237,7 +237,7 @@ This dashboard provides an end-to-end **ATM transaction monitoring solution**, h
 
 # 📊 Ecommerce Sales Dashboard (YTD Analysis)
 
-![Ecommerce Sales Dashboard](Ecommerce%20Salse%20Dashboard(YTD%20Analysis).png)
+![Ecommerce Sales Dashboard](https://github.com/Rutvik1429/Dashboard_Power-BI/blob/main/Ecommerce%20Salse%20Dashboard(YTD%20Analysis).png)
 
 
 ## 🎯 Objective
